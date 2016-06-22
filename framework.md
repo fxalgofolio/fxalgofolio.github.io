@@ -28,5 +28,5 @@ Once this risk is controlled via specific prudent practices in the system develo
 * Trend-following entry, system exit
 * Counter-trend entry, system exit
 
-The complete testing framework is implemented to target [a specific platform]({{ '/#platform' | prepend: site.baseurl }}) for the usage of historical data in testing. Testing methodology is documented in the [primary resource]({{ '/#platform' | prepend: site.baseurl }}).
+The complete testing framework is implemented to target [a specific platform]({{ '/#platform' | prepend: site.baseurl }}) for the usage of historical data in testing. Testing methodology is documented in the [primary resource]({{ '/resources' | prepend: site.baseurl }}).
 
