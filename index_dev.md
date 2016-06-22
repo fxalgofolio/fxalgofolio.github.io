@@ -6,7 +6,7 @@ title: Home
 {% include intro.html %}
 
 
-<article>
+<article class="page container">
   <h2>Principles</h2>
   <p><a href="{{ '/framework' | prepend: site.baseurl }}">**FXAlgoFolio**</a> is based on more rigorous statistical principles</a> than basic backtests. Because algorithmic trading is inherently a hands-off business, the goal of this project is to provide the test bed that helps you detect problems with your trading systems and more reliably identify problematic systems and produce more realistic expectations of system performance than backtests.</p>
   <p>This project is the result of <a href="{{ '/resources' | prepend: site.baseurl }}">extensive research</a> into existing knowledge about trading forex markets, from introductory content to in-depth financial papers. The conclusion of this research is to keep everything simple as a retail trader.</p>
