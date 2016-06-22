@@ -9,6 +9,9 @@ url: http://fxalgofolio.github.io # site url
 # baseurl: "/fxalgofolio" # apply repo name if use it under gh-pages branch
 baseurl: null # apply null if repo name is something like username.github.io
 
+author:
+  name: "Taihao Zhang"
+
 google_analytics: UA-79755062-2
 repo: http://github.com/fxalgofolio/fxalgofolio.github.io
 # disqus_shortname: "heiswayi"
