@@ -17,7 +17,7 @@ title: Home
   </ul>
 
   <h2>License</h2>
-  <p>For the sake of keeping this a FOSS project, FXAlgoFolio (and the various platform implementations) is licensed under the <em>Affero General Public License</em> version 3.0 (terms accessible under each project in the framework).</p>
+  <p>For the sake of keeping this a FOSS project, the various platform implementations of FXAlgoFolio are licensed under the <em>Affero General Public License</em> version 3.0 (terms accessible under each project in the framework).</p>
   <p>Under the terms of the license, you can download and modify this project for your own personal use and still keep your trade secrets! However, if you share (sell) this or a derived work, the source code must be provided.</p>
 </article>
 
