@@ -6,7 +6,7 @@ permalink: /resources/
 
 The framework is based on the book <em>Building Algorithmic Trading Systems: A Trader's Journey From Data Mining to Monte Carlo Simulation to Live Trading</em> by Kevin Davey:
 
-<a target="_blank" href="https://www.amazon.com/gp/product/1118778987/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1118778987&linkCode=as2&tag=zhangtaihaome-20&linkId=051c19bc6e88920e64d2867980be36d4"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1118778987&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=zhangtaihaome-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=zhangtaihaome-20&l=am2&o=1&a=1118778987" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<p style="text-align: center"><a target="_blank" href="https://www.amazon.com/gp/product/1118778987/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1118778987&linkCode=as2&tag=zhangtaihaome-20&linkId=051c19bc6e88920e64d2867980be36d4"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1118778987&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=zhangtaihaome-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=zhangtaihaome-20&l=am2&o=1&a=1118778987" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
 
 This page will be continually updated with links to external resources found to be useful. <strong>Use your own judgment to decide whether each is suitable for you.</strong>
 
