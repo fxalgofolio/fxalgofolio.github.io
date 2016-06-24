@@ -222,6 +222,11 @@ hr {
 
   padding: $base-spacing 0;
 
+  .legal-disclaimer {
+    border: 1px solid lighten($light-gray-color, 5%);
+    padding: 20px;
+  }
+
   a {
     @extend .link;
   }
