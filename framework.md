@@ -31,5 +31,7 @@ Once this risk is controlled via specific prudent practices in the system develo
 * Trend-following entry, system exit
 * Counter-trend entry, system exit
 
+Multiple different systems are implemented with low correlation of returns and can be run simultaneously to reduce the overall risk.
+
 The framework is implemented to target [a specific platform]({{ '/#platform' | prepend: site.baseurl }}) for the usage of historical data in testing.
 
