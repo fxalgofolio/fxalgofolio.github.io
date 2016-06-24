@@ -14,9 +14,9 @@ author:
 
 google_analytics: UA-79755062-2
 repo: http://github.com/fxalgofolio/fxalgofolio.github.io
-# disqus_shortname: "heiswayi"
+disqus_shortname: "zth_me"
 # twitter_username: ""
-comments: false
+comments: true
 
 # Build settings
 permalink   : /:year/:title/
