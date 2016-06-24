@@ -13,7 +13,7 @@ title: Home
 
   <h2 id="platform">Platform-specific implementations</h2>
   <ul>
-    <li><a href="{{ '/metatrader4' | prepend: site.baseurl }}">MetaTrader 4</a></li>
+    <li><a href="{{ '/metatrader4' | prepend: site.baseurl }}">For MetaTrader 4</a></li>
   </ul>
 
   <h2>License</h2>
