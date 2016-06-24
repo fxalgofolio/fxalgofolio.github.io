@@ -49,10 +49,10 @@ An algorithmic trading career requires constantly diversifying. The following li
 * <a target="_blank" href="hhttps://www.quantstart.com/">QuantStart</a>
 * <a target="_blank" href="hhttps://www.quantstart.com/">Quantocracy</a>
 * <a target="_blank" href="http://forums.babypips.com/free-forex-trading-systems/">Forum: Free Forex Trading Systems - BabyPips.com</a>
-* <a target="_blank" href="http://www.trade2win.com/">Trade2Win</a>
 * <a target="_blank" href="http://www.automated-trading-system.com/">Au.Tra.Sy blog</a>
 * <a target="_blank" href="http://systemtradersuccess.com/">System Trader Success</a>
 * <a target="_blank" href="http://bettersystemtrader.com/">Better System Trader</a>
 * <a target="_blank" href="http://jonathankinlay.com/">Quantitative Research And Trading</a>
 * <a target="_blank" href="http://www.quantsportal.com/">Quants Portal</a>
+* <a target="_blank" href="http://www.trade2win.com/">Trade2Win</a>
 
