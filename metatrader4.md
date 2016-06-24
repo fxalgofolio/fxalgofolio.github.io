@@ -2,6 +2,7 @@
 layout: page
 title: FXAlgoFolio for MetaTrader 4
 permalink: /metatrader4/
+comments: true
 ---
 
 Download at [GitHub project page](https://github.com/fxalgofolio/fxalgofolio-mt4).

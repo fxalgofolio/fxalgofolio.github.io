@@ -2,6 +2,7 @@
 layout: page
 title: Resources
 permalink: /resources/
+comments: true
 ---
 
 The framework is based on the book <em>Building Algorithmic Trading Systems: A Trader's Journey From Data Mining to Monte Carlo Simulation to Live Trading</em> by Kevin Davey:

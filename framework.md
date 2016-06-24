@@ -2,6 +2,7 @@
 layout: page
 title: Framework
 permalink: /framework/
+comments: true
 ---
 
 The framework is built on the principle of maximizing the probability (where practical for individual traders) that a trading system performs well, whatever your individual goals.
