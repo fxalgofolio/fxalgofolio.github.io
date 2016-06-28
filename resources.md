@@ -47,8 +47,8 @@ Research
 
 An algorithmic trading career requires constantly diversifying. The following lists link to places where you will find systems, strategies, blogs, etc. that you can validate and reject for yourself.
 
-* <a target="_blank" href="hhttps://www.quantstart.com/">QuantStart</a>
-* <a target="_blank" href="hhttps://www.quantstart.com/">Quantocracy</a>
+* <a target="_blank" href="https://www.quantstart.com/">QuantStart</a>
+* <a target="_blank" href="https://www.quantstart.com/">Quantocracy</a>
 * <a target="_blank" href="http://forums.babypips.com/free-forex-trading-systems/">Forum: Free Forex Trading Systems - BabyPips.com</a>
 * <a target="_blank" href="http://www.automated-trading-system.com/">Au.Tra.Sy blog</a>
 * <a target="_blank" href="http://systemtradersuccess.com/">System Trader Success</a>
